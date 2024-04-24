@@ -38,11 +38,11 @@ export function Resume() {
             websites and web applications.
           </Typography>
           <Button
-            variant="text"
+            variant="outlined"
             color="gray"
             className="flex items-center gap-2"
           >
-            view more
+            Download resume
             <ArrowRightIcon
               strokeWidth={3}
               className="h-3.5 w-3.5 text-gray-900"

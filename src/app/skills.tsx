@@ -52,7 +52,7 @@ const SKILLS = [
 
 export function Skills() {
   return (
-    <section className="px-8">
+    <section id="skills" className="pt-28 px-8">
       <div className="container mx-auto mb-20 text-center">
         <Typography color="blue-gray" className="mb-2 font-bold uppercase">
           my skills
